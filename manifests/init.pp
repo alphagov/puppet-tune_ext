@@ -7,6 +7,9 @@
 #
 # the ext disk to be tuned
 define tune_ext (
-  $disk
+  $disk = $title
 ) {
+
+
+
 }
